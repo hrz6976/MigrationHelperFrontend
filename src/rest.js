@@ -1,4 +1,4 @@
-const baseUrl = "http://migration-helper.net:22568/";
+const baseUrl = "/";
 
 function encodeQueryData(data) {
   const ret = [];
